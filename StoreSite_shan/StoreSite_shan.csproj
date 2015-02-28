@@ -206,10 +206,14 @@
     <Content Include="Images\cart.png" />
     <Content Include="Images\cart1.png" />
     <Content Include="Images\cart2.png" />
+    <Content Include="Images\feature.jpg" />
     <Content Include="Images\feature1.jpg" />
     <Content Include="Images\feature2.jpg" />
     <Content Include="Images\feature3.jpg" />
     <Content Include="Images\featurea.jpg" />
+    <Content Include="Images\h2.gif" />
+    <Content Include="Images\h4.png" />
+    <Content Include="Images\h5.png" />
     <Content Include="Images\heroAccent.png" />
     <Content Include="Images\img-sprite.png" />
     <Content Include="Images\logo.png" />

@@ -229,7 +229,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 	  <div class="callbacks_container">
 	      <ul class="rslides" id="slider">
-	        <li><img src="images/s1.jpg" class="img-responsive" alt=""/></li>
+	        <li><img src="images/h5.png" class="img-responsive" alt=""/></li>
 	        <li><img src="images/featurea.jpg" class="img-responsive" alt=""/></li>
 	        <li><img src="images/PR12.jpg" class="img-responsive" alt=""/></li>
 	      </ul>
