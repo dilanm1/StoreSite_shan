@@ -200,6 +200,11 @@
     <Content Include="Images\arrow.png" />
     <Content Include="Images\arrow1.png" />
     <Content Include="Images\arrows.png" />
+    <Content Include="Images\b1.jpg" />
+    <Content Include="Images\b2.jpg" />
+    <Content Include="Images\b3.jpg" />
+    <Content Include="Images\b4.jpg" />
+    <Content Include="Images\b5.jpg" />
     <Content Include="Images\block.gif" />
     <Content Include="Images\bullet.png" />
     <Content Include="Images\b_small.jpg" />
@@ -218,6 +223,7 @@
     <Content Include="Images\img-sprite.png" />
     <Content Include="Images\logo.png" />
     <Content Include="Images\MEx.jpg" />
+    <Content Include="Images\MExpress.jpg" />
     <Content Include="Images\n1.jpg" />
     <Content Include="Images\n2.jpg" />
     <Content Include="Images\n3.jpg" />
