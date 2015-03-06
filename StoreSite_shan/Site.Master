@@ -3,19 +3,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
-    <meta charset="utf-8" />
-   <title>Meadow Express| Home :: Our Store</title>
+<meta charset="utf-8" />
+<title>Meadow Express| Home :: Our Store</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Wrexham Stores" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<!-- Custom Theme files -->
 <link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <link rel="stylesheet" href="css/jquery.countdown.css" />
-<!-- Custom Theme files -->
-<!--webfont-->
 <link href='http://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
 <!-- dropdown -->
@@ -61,165 +59,11 @@
 	     <ul class="megamenu skyblue">
 			<li class="active grid"><a class="color2" href="index.html">Home</a></li>
 			<li><a class="color4" href="men.html">Best Sellers</a></li>				
-			<li><a class="color10" href="#">Promotions</a>
-				<%--<div class="megapanel">
-					<div class="row">
-						<div class="col1">
-							<div class="h_nav">
-								<h4>Men</h4>
-								<ul>
-									<li><a href="men.html">Jackets</a></li>
-									<li><a href="men.html">Blazers</a></li>
-									<li><a href="men.html">Suits</a></li>
-									<li><a href="men.html">Trousers</a></li>
-									<li><a href="men.html">Jeans</a></li>
-									<li><a href="men.html">Shirts</a></li>
-									<li><a href="men.html">Sweatshirts & Hoodies</a></li>
-									<li><a href="men.html">Swem Wear</a></li>
-									<li><a href="men.html">Accessories</a></li>
-								</ul>	
-							</div>							
-						</div>
-						<div class="col1">
-							<div class="h_nav">
-								<h4>Women</h4>
-								<ul>
-									<li><a href="men.html">Outerwear</a></li>
-									<li><a href="men.html">Dresses</a></li>
-									<li><a href="men.html">Handbags</a></li>
-									<li><a href="men.html">Trousers</a></li>
-									<li><a href="men.html">Jeans</a></li>
-									<li><a href="men.html">T-Shirts</a></li>
-									<li><a href="men.html">Shoes</a></li>
-									<li><a href="men.html">Coats</a></li>
-									<li><a href="men.html">Accessories</a></li>
-								</ul>	
-							</div>							
-						</div>
-						<div class="col2">
-							<div class="h_nav">
-								<h4>Trends</h4>
-								<ul>
-									<li class>
-										<div class="p_left">
-										   <img src="images/t1.jpg" class="img-responsive" alt=""/>
-										</div>
-										<div class="p_right">
-											<h4><a href="#">Denim shirt</a></h4>
-											<span class="item-cat"><small><a href="#">Jackets</a></small></span>
-											<span class="price">29.99 $</span>
-										</div>
-										<div class="clearfix"> </div>
-									</li>
-									<li>
-										<div class="p_left">
-										  <img src="images/t2.jpg" class="img-responsive" alt=""/>
-										</div>
-										<div class="p_right">
-											<h4><a href="#">Denim shirt</a></h4>
-											<span class="item-cat"><small><a href="#">Jackets</a></small></span>
-											<span class="price">29.99 $</span>
-										</div>
-										<div class="clearfix"> </div>
-									</li>
-									<li>
-										<div class="p_left">
-										   <img src="images/t3.jpg" class="img-responsive" alt=""/>
-										</div>
-										<div class="p_right">
-											<h4><a href="#">Denim shirt</a></h4>
-											<span class="item-cat"><small><a href="#">Jackets</a></small></span>
-											<span class="price">29.99 $</span>
-										</div>
-										<div class="clearfix"> </div>
-									</li>
-								</ul>	
-							</div>												
-						</div>
-					  </div>
-					</div>--%>
+			<li><a class="color10" href="#">Promotions</a>				
 			</li>
 			<li><a class="color3" href="404.html">About Us</a></li>
-			<li><a class="color7" href="#">Contact Us</a>
-				<%--<div class="megapanel">
-					<div class="row">
-						<div class="col1">
-							<div class="h_nav">
-								<h4>Men</h4>
-								<ul>
-									<li><a href="men.html">Jackets</a></li>
-									<li><a href="men.html">Blazers</a></li>
-									<li><a href="men.html">Suits</a></li>
-									<li><a href="men.html">Trousers</a></li>
-									<li><a href="men.html">Jeans</a></li>
-									<li><a href="men.html">Shirts</a></li>
-									<li><a href="men.html">Sweatshirts & Hoodies</a></li>
-									<li><a href="men.html">Swem Wear</a></li>
-									<li><a href="men.html">Accessories</a></li>
-								</ul>	
-							</div>							
-						</div>
-						<div class="col1">
-							<div class="h_nav">
-								<h4>Women</h4>
-								<ul>
-									<li><a href="men.html">Outerwear</a></li>
-									<li><a href="men.html">Dresses</a></li>
-									<li><a href="men.html">Handbags</a></li>
-									<li><a href="men.html">Trousers</a></li>
-									<li><a href="men.html">Jeans</a></li>
-									<li><a href="men.html">T-Shirts</a></li>
-									<li><a href="men.html">Shoes</a></li>
-									<li><a href="men.html">Coats</a></li>
-									<li><a href="men.html">Accessories</a></li>
-								</ul>	
-							</div>							
-						</div>
-						<div class="col2">
-							<div class="h_nav">
-								<h4>Trends</h4>
-								<ul>
-									<li class>
-										<div class="p_left">
-										   <img src="images/t1.jpg" class="img-responsive" alt=""/>
-										</div>
-										<div class="p_right">
-											<h4><a href="#">Denim shirt</a></h4>
-											<span class="item-cat"><small><a href="#">Jackets</a></small></span>
-											<span class="price">29.99 $</span>
-										</div>
-										<div class="clearfix"> </div>
-									</li>
-									<li>
-										<div class="p_left">
-										  <img src="images/t2.jpg" class="img-responsive" alt=""/>
-										</div>
-										<div class="p_right">
-											<h4><a href="#">Denim shirt</a></h4>
-											<span class="item-cat"><small><a href="#">Jackets</a></small></span>
-											<span class="price">29.99 $</span>
-										</div>
-										<div class="clearfix"> </div>
-									</li>
-									<li>
-										<div class="p_left">
-										   <img src="images/t3.jpg" class="img-responsive" alt=""/>
-										</div>
-										<div class="p_right">
-											<h4><a href="#">Denim shirt</a></h4>
-											<span class="item-cat"><small><a href="#">Jackets</a></small></span>
-											<span class="price">29.99 $</span>
-										</div>
-										<div class="clearfix"> </div>
-									</li>
-								</ul>	
-							</div>												
-						</div>
-					  </div>
-					</div>--%>
-			</li>
-			<%--<li><a class="color8" href="blog.html">Blog</a></li>--%>
-			<div class="clearfix"> </div>
+			<li><a class="color7" href="#">Contact Us</a>			
+			</li>		
 		 </ul>
 	  </div>
 </div>
@@ -240,11 +84,9 @@
 		<div class="grid_1">
 			<div class="col-md-3">
 			 <div class="box2">
-			 	<ul class="list1">
-			 		<i class="lock"> </i>
+			 	<ul class="list1">			 	
 			 		<li class="list1_right"><p>Amazing Value Locally</p></li>
-			 		<div class="clearfix"> </div>
-			 	</ul>
+			 	 	</ul>
 			 </div>
 			</div>
 			<div class="col-md-3">
